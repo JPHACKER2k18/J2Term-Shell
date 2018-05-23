@@ -1,0 +1,5 @@
+while true
+do
+echo Terminal de J2 && read a
+$a
+done
